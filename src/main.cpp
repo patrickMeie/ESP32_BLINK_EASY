@@ -11,9 +11,9 @@ void loop() {
   // Schalte die LED ein
   digitalWrite(LED_BUILTIN, HIGH);
   // Warte 1000 Millisekunden (1 Sekunde)
-  delay(1000);
+  delay(2000);
   // Schalte die LED aus
   digitalWrite(LED_BUILTIN, LOW);
   // Warte 1000 Millisekunden (1 Sekunde)
-  delay(1000);
+  delay(2000);
 }

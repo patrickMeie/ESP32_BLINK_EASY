@@ -8,4 +8,4 @@ Dieses Projekt verwendet einen ESP32 (Adafruit Feather ESP32 V2), um eine LED bl
 
 1. Clone das Repository:
    ```bash
-   git clone https://github.com/<DeinGitHubName>/<DeinRepoName>.git
+   git clone https://github.com/patrickMeie/ESP32_BLINK_EASY.git
